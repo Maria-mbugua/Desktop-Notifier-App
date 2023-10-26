@@ -31,15 +31,15 @@ A simple Python program that sends desktop notifications at specific intervals t
 
   ```bash
   pip install plyer
-
+  
 ## Installation
 
 ## Clone the repository:
-git clone https://github.com/yourusername/Desktop-Notifier-App.git
-cd Desktop-Notifier-App
+    git clone https://github.com/yourusername/Desktop-Notifier-App.git
+    cd Desktop-Notifier-App
 
 ## Run the script:
-python App.py
+    python App.py
 
 ## Usage
 Once you've started the program, it will run in the background and send notifications at regular intervals. By default, it will remind you to take a break and stretch every hour.
@@ -54,6 +54,6 @@ Adjust the time.sleep() duration to change the notification interval (in seconds
 This project is licensed under the MIT License.
 
 
-You should replace `yourusername` in the clone URL with your actual GitHub username. Additionally, you can create a `CONTRIBUTING.md` file with contribution guidelines if you expect contributions from the community. The license mentioned is MIT; make sure to include the corresponding `LICENSE` file in your repository.
+    You should replace `yourusername` in the clone URL with your actual GitHub username. Additionally, you can create a `CONTRIBUTING.md` file with contribution guidelines if you expect contributions from the community. The license mentioned is MIT; make sure to include the corresponding `LICENSE` file in your repository.
 
 
