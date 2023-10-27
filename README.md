@@ -34,7 +34,9 @@ A simple Python program that sends desktop notifications at specific intervals t
 ### Installation
 
 - Clone the repository:
+
     git clone      https://github.com/yourusername/Desktop-Notifier-App.git
+
     cd Desktop-Notifier-App
 
 ## Run the script:
