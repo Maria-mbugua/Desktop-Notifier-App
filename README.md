@@ -39,7 +39,7 @@ A simple Python program that sends desktop notifications at specific intervals t
 
       cd Desktop-Notifier-App
 
-## Run the script:
+### Run the script:
     python App.py
 
 ## Usage
