@@ -12,7 +12,6 @@ A simple Python program that sends desktop notifications at specific intervals t
   - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -32,10 +31,10 @@ A simple Python program that sends desktop notifications at specific intervals t
   ```bash
   pip install plyer
   
-## Installation
+### Installation
 
-## Clone the repository:
-    git clone https://github.com/yourusername/Desktop-Notifier-App.git
+- Clone the repository:
+    git clone      https://github.com/yourusername/Desktop-Notifier-App.git
     cd Desktop-Notifier-App
 
 ## Run the script:
